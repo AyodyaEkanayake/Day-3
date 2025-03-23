@@ -1,5 +1,5 @@
 # Day-3
-Functions in JS
+Functions in JS-Outputs
 
 1.print functions 
 
